@@ -1,0 +1,19 @@
+(footprint "zhbi_Mark" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5806f565-1d04-4f04-bc83-dd331a011b26)
+  )
+  (fp_text value "mark" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 105920c7-15f4-4595-916f-1949cd283831)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 50c6957d-dbb2-4e6d-a0ab-00ba70e962d6)
+  )
+  (pad "1" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 1) (tstamp 01b86dc8-0aad-483b-8376-e64c466aeb3c))
+)
