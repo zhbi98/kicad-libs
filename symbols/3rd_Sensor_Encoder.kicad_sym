@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "mt6816" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "MT6816" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "IC" (id 0) (at 24.13 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "mt6816" (id 1) (at 24.13 5.08 0)
+    (property "Value" "MT6816" (id 1) (at 24.13 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "SOIC127P600X175-8N" (id 2) (at 24.13 2.54 0)
@@ -21,7 +21,7 @@
     (property "Manufacturer_Name" "Magntek" (id 6) (at 24.13 -7.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Manufacturer_Part_Number" "mt6816" (id 7) (at 24.13 -10.16 0)
+    (property "Manufacturer_Part_Number" "MT6816" (id 7) (at 24.13 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Mouser Part Number" "" (id 8) (at 24.13 -12.7 0)
@@ -42,7 +42,7 @@
     (property "Mouser Testing Price/Stock" "" (id 13) (at 24.13 -25.4 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (symbol "mt6816_0_0"
+    (symbol "MT6816_0_0"
       (pin passive line (at 0 0 0) (length 5.08)
         (name "CSN" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -76,7 +76,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "mt6816_0_1"
+    (symbol "MT6816_0_1"
       (polyline
         (pts
           (xy 5.08 2.54)
