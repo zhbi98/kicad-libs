@@ -2,17 +2,25 @@
 
 该仓库用于收集开源封装库以及自定义的元器件封装。
 
-## 元器件符号库
+## symbols
 
-symbols
+元器件符号库
 
-## 元器件封装库
+## footprints
 
-footprints
+元器件封装库
 
-## 元器件模型库
+## 3dmodels
 
-3dmodels
+元器件模型库
+
+## docs
+
+嘉立创封装命名标准文档
+
+## libtest
+
+用于符号和封装测试的 KiCAD 工程
 
 ## 封装命名规则
 

@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "3rd_Connector")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Driver_Motor")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Driver_Motor.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Memory_Flash")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Memory_Flash.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Optocoupler")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Optocoupler.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Power_Supply")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Power_Supply.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Sensor_Encoder")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Sensor_Encoder.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Sensor_Motion")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Sensor_Motion.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Sensor_Power")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Sensor_Power.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Switch")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/symbols/3rd_Switch.kicad_sym")(options "")(descr ""))
+)
