@@ -1,7 +1,6 @@
 (footprint "3rd_S6B-PH-SM4-TB_LF__SN__3" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "S6B-PH-SM4-TB(LF)(SN)_3")
   (tags "Connector")
   (attr smd)
   (fp_text reference "J**" (at -0.415 -5.499) (layer "F.SilkS")
