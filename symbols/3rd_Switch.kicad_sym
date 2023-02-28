@@ -215,11 +215,11 @@
       )
     )
   )
-  (symbol "KEY_4P_BIG" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "KEY_4P_" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "S" (id 0) (at -5.0865 5.3408 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "KEY_4P_BIG" (id 1) (at -5.0819 -7.6228 0)
+    (property "Value" "KEY_4P_" (id 1) (at -5.0819 -7.6228 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Footprint" "KEY_4P_BIG" (id 2) (at 0 -12.7 0)
@@ -237,7 +237,7 @@
     (property "STANDARD" "MANUFACTURER RECOMMENDATIONS" (id 6) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (symbol "KEY_4P_BIG_0_0"
+    (symbol "KEY_4P__0_0"
       (rectangle (start -5.08 -5.08) (end 5.08 5.08)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
