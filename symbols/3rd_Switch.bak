@@ -143,11 +143,11 @@
       )
     )
   )
-  (symbol "KEY-PB_4P_MIN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "KEY-PB_4P_M" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 1.524 0)
       (effects (font (size 1.27 1.27)) (justify bottom))
     )
-    (property "Value" "KEY-PB_4P_MIN" (id 1) (at 0 -0.762 0)
+    (property "Value" "KEY-PB_4P_M" (id 1) (at 0 -0.762 0)
       (effects (font (size 1.27 1.27)) (justify top))
     )
     (property "Footprint" "None" (id 2) (at 0 -5.08 0)
@@ -156,7 +156,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "KEY-PB_4P_MIN_0_0"
+    (symbol "KEY-PB_4P_M_0_0"
       (circle (center -2.54 0) (radius 0.127)
         (stroke (width 0.4) (type default) (color 0 0 0 0))
         (fill (type outline))
