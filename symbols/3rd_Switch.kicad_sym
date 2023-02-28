@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
   (symbol "KEY-PB_2P" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "SW" (id 0) (at -1.27 2.54 0)
+    (property "Reference" "S" (id 0) (at -1.27 2.54 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Value" "KEY-PB_2P" (id 1) (at -3.8111 -3.8111 0)
@@ -144,7 +144,7 @@
     )
   )
   (symbol "KEY-PB_4P_MIN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at 0 1.524 0)
+    (property "Reference" "S" (id 0) (at -0.635 1.905 0)
       (effects (font (size 1.27 1.27)) (justify bottom))
     )
     (property "Value" "KEY-PB_4P_MIN" (id 1) (at 0 -0.762 0)
@@ -164,7 +164,7 @@
       (polyline
         (pts
           (xy -2.54 0)
-          (xy 1.27 1.905)
+          (xy 0.635 2.54)
         )
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
