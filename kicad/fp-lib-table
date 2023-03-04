@@ -10,7 +10,7 @@
   (lib (name "3rd_Optocoupler_SMD")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Optocoupler_SMD.pretty")(options "")(descr ""))
   (lib (name "3rd_Package_QFN")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Package_QFN.pretty")(options "")(descr ""))
   (lib (name "3rd_Package_SOT")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Package_SOT.pretty")(options "")(descr ""))
-  (lib (name "3rd_Power_Supply")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Power_Supply.pretty")(options "")(descr ""))
+  (lib (name "3rd_Converter_DCDC")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Converter_DCDC.pretty")(options "")(descr ""))
   (lib (name "3rd_Sensor_Encoder")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Sensor_Encoder.pretty")(options "")(descr ""))
   (lib (name "3rd_Sensor_Motion")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Sensor_Motion.pretty")(options "")(descr ""))
   (lib (name "3rd_Sensor_Power")(type "KiCad")(uri "C:/Users/20220615/Desktop/kicad-libs/footprints/3rd_Sensor_Power.pretty")(options "")(descr ""))
