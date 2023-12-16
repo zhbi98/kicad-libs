@@ -36,9 +36,4 @@
   (pad "4" smd rect (at 1.25 0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e864dfd-7bdc-44f8-9107-5aff2075e3b1))
   (pad "5" smd rect (at 1.25 0 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba6f45d8-f9cd-44bc-b38c-d2e4d4967a4e))
   (pad "6" smd rect (at 1.25 -0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 265502ef-cb92-45fc-94be-4e7c47e05803))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Converter_DCDC.3dshapes/SOT-23-6_L2.7-W2.2-P0.95_ME3116AM6G.stp"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

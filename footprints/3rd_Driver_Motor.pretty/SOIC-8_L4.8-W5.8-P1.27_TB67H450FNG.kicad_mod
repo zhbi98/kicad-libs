@@ -35,9 +35,4 @@
   (pad "7" smd rect (at 2.712 -0.635 90) (size 0.65 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 85d2eec3-2d2b-4684-9d9d-7b3826eeec2c))
   (pad "8" smd rect (at 2.712 -1.905 90) (size 0.65 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3acba4cd-5f66-496c-afd1-1969f9f8afaa))
   (pad "9" smd rect (at 0 0) (size 2.39 2.39) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8210d78e-376b-4ff0-96ce-8e618ef9e84d))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Driver_Motor.3dshapes/SOIC-8_L4.8-W5.8-P1.27_TB67H450FNG.stp"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

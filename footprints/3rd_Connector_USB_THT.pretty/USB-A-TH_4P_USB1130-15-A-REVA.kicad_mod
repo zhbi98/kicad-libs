@@ -39,9 +39,4 @@
   (pad 4 thru_hole circle (at 3.5 -2.71) (size 1.428 1.428) (drill 0.92) (layers *.Cu *.Mask))
   (pad S1 thru_hole circle (at -6.57 0) (size 3.276 3.276) (drill 2.26) (layers *.Cu *.Mask))
   (pad S2 thru_hole circle (at 6.57 0) (size 3.276 3.276) (drill 2.26) (layers *.Cu *.Mask))
-  (model "H:/my items/stm32_pcbv1.0/third_party_lib/modules/packages3d/DL_Usb_A_USB1130-15-A_REVA.3dshapes/DL_Usb_A_USB1130-15-A_REVA.step"
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )

@@ -33,9 +33,4 @@
   (pad 6 smd rect (at 3.6 0.635 90) (size 0.65 1.65) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 3.6 -0.635 90) (size 0.65 1.65) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 3.6 -1.905 90) (size 0.65 1.65) (layers F.Cu F.Paste F.Mask))
-  (model "H:/my items/stm32_pcbv1.0/third_party_lib/modules/packages3d/DL_W25q32_W25Q32JVSSIQ.3dshapes/DL_W25q32_W25Q32JVSSIQ.stp"
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

@@ -38,9 +38,4 @@
   (pad "6" smd rect (at 2.712 0.635 90) (size 0.7 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 528d46c7-d324-4b57-8f19-6ecadd79c122))
   (pad "7" smd rect (at 2.712 -0.635 90) (size 0.7 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 892976a8-2535-4d8f-884e-3e493ca57092))
   (pad "8" smd rect (at 2.712 -1.905 90) (size 0.7 1.525) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3643a35f-cada-465c-8f3e-f6a79fd645eb))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Sensor_Encoder.3dshapes/SOIC-8_L4.7-W5.8-P1.27_MT6816.stp"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

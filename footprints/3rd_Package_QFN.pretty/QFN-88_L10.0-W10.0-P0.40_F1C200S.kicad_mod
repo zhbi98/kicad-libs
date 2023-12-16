@@ -110,9 +110,4 @@
   (pad 87 smd rect (at -3.8 -4.95 0) (size 0.2 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 88 smd rect (at -4.2 -4.95 0) (size 0.2 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 89 smd rect (at 0 0 0) (size 6.84 6.84) (layers F.Cu F.Paste F.Mask))
-  (model F1C200S.stp
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

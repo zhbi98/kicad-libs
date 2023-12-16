@@ -26,9 +26,4 @@
   (pad "2" smd roundrect (at 0.5 1.9) (size 0.5 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 20774100-1e55-4eb0-8332-3dcfa1d20219))
   (pad "MP1" smd roundrect (at -1.6 -1.5) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 2a29ce37-e7bd-40f6-a38e-6354af7eb25e))
   (pad "MP2" smd roundrect (at 1.6 -1.5) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp e726fdb4-8b2a-4136-a6fb-57a2a094dd79))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Connector_JST_SMD.3dshapes/CONN-SMD_1x2P-P1.0-H_WAFER-SH1.0-2PWB.step"
-    (offset (xyz 8.1 -57.7 -1.7))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
-  )
 )

@@ -46,9 +46,4 @@
   (pad "S2" thru_hole oval (at -4.32 0) (size 1 2) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp 5ce3c5f3-1f3e-4c04-a936-ab470a1c30fe))
   (pad "S3" thru_hole oval (at 4.32 0) (size 1 2) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp c9760f06-b13a-4c3b-a20b-687bef592822))
   (pad "S4" thru_hole oval (at 4.32 -4.18) (size 1.05 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 9c11c077-62c4-4c9f-a31c-8c972bb7e3a7))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Connector_USB_SMD.3dshapes/USB-C-SMD_16P_USB4105-GF-A.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )

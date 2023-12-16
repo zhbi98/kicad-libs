@@ -29,9 +29,4 @@
   (fp_rect (start -2 -1.1) (end -2 -1.5) (layer "F.Fab") (width 0.1) (fill none) (tstamp c33be23b-99ad-4f97-9fd9-0f3dfcef77ff))
   (pad "1" smd roundrect (at -2.15 0) (size 1.35 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fc2009e9-a43a-412a-b792-efc2da65f954))
   (pad "2" smd roundrect (at 2.15 0) (size 1.35 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 02404dda-3cc0-450e-bb63-725c8b0f5aff))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Button_Switch_SMD.3dshapes/KEY-SMD_2P_L4.0-W3.0-V_K2-1807SN-A3DW-06.step"
-    (offset (xyz -16 59.95 -1.7))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

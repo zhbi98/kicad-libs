@@ -30,9 +30,4 @@
   (pad "6" smd roundrect (at 2.47 0.635) (size 1.97 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp 4ec1ebdc-def4-44ce-90ab-0fb02cf0f9c6))
   (pad "7" smd roundrect (at 2.47 -0.635) (size 1.97 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp 334baa65-4958-4c34-b762-a992c0ec29d1))
   (pad "8" smd roundrect (at 2.47 -1.905) (size 1.97 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07) (tstamp ad9d815e-8336-4b03-86c5-a0f28210e6a3))
-  (model "${KIPRJMOD}/../kicad-libs/3dmodels/3rd_Interface_UART.3dshapes/SOIC-8_L5.0-W3.9-P1.27_SN75176BDR.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )

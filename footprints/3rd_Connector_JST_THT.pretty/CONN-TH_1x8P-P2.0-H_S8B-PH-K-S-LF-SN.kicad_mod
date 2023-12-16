@@ -35,9 +35,4 @@
   (pad "6" thru_hole circle (at -10 0) (size 1.35 1.35) (drill 0.9) (layers *.Cu *.Mask) (tstamp 7670f7dc-2239-48ec-b5f2-1e138d28fb3f))
   (pad "7" thru_hole circle (at -12 0) (size 1.35 1.35) (drill 0.9) (layers *.Cu *.Mask) (tstamp 96b5e34c-85c1-4af5-a72d-5792f3b47bef))
   (pad "8" thru_hole circle (at -14 0) (size 1.35 1.35) (drill 0.9) (layers *.Cu *.Mask) (tstamp 6e370fb0-ad54-42de-9b10-b2ff738990fd))
-  (model "${KIPRJMOD}/../third_party_lib/3dmodels/3rd_S8B-PH-K-S_LF__SN.3dshapes/3rd_S8B-PH-K-S_LF__SN_.step"
-    (offset (xyz 1.5 -2 -1.7))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

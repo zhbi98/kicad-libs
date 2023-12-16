@@ -40,9 +40,4 @@
   (pad "6" smd rect (at 2.74 0.635 90) (size 0.64 1.52) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a6403ef-5486-46ad-9ac3-959edbf5c76e))
   (pad "7" smd rect (at 2.74 -0.635 90) (size 0.64 1.52) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp df6ee778-4b27-43fa-8ac2-2a205b1b00f4))
   (pad "8" smd rect (at 2.74 -1.905 90) (size 0.64 1.52) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e887c8c4-66d9-42b3-a5c2-af8698f6a920))
-  (model "${KIPRJMOD}/../third_party_lib/3dmodels/3rd_EL0631TAV.3dshapes/3rd_EL0631TAV.step"
-    (offset (xyz -0.7 14.5 -1.7))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
-  )
 )

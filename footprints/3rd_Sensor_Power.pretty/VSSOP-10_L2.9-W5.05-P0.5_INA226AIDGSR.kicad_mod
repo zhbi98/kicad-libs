@@ -27,9 +27,4 @@
   (pad 8 smd roundrect (at 2.15 0) (size 1.47 0.28) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.04))
   (pad 9 smd roundrect (at 2.15 -0.5) (size 1.47 0.28) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.04))
   (pad 10 smd roundrect (at 2.15 -1) (size 1.47 0.28) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.04))
-  (model "H:/my items/stm32_pcbv1.0/third_party_lib/modules/packages3d/DL_Ina226_INA226AIDGSR.3dshapes/DL_Ina226_INA226AIDGSR.step"
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )
