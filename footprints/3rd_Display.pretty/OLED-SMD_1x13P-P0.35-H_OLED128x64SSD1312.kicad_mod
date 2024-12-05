@@ -1,10 +1,10 @@
-(footprint "FPC-SMD_1x13P-P0.35-H_OLED128x64SSD1312"
+(footprint "OLED-SMD_1x13P-P0.35-H_OLED128x64SSD1312"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0.2794 -2.3622 0)
+		(at 0.127 -28.0204 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a9454dda-8c48-497d-ac9e-6ddaa87c4b22")
@@ -15,8 +15,8 @@
 			)
 		)
 	)
-	(property "Value" "FPC-SMD_1x13P-P0.35-H_OLED128x64SSD1312"
-		(at 0.6604 -5.4582 0)
+	(property "Value" "OLED-SMD_1x13P-P0.35-H_OLED128x64SSD1312"
+		(at 0.508 -31.1164 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "468736f8-0431-400e-bdc6-b61c72d409cb")
@@ -68,8 +68,38 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -6.1595 5.0546)
-		(end -6.1595 0)
+		(start -7.112 -26.797)
+		(end 6.985 -26.797)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f0d44b32-93c9-4330-b93d-08a9a09cd1fe")
+	)
+	(fp_line
+		(start -7.112 1.397)
+		(end -7.112 -26.797)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e0da3b9b-c04b-4166-90ab-2a9f69c91139")
+	)
+	(fp_line
+		(start -7.112 1.397)
+		(end -6.477 1.397)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "327f73c9-5229-46e5-877b-acef70cf62e2")
+	)
+	(fp_line
+		(start -6.1595 4.191)
+		(end -6.1595 -0.8636)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -78,8 +108,8 @@
 		(uuid "6c85c615-dd33-4f45-993c-9c5a61976a3a")
 	)
 	(fp_line
-		(start -4.8895 0)
-		(end -6.1595 0)
+		(start -4.8895 -0.8636)
+		(end -6.1595 -0.8636)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -88,18 +118,18 @@
 		(uuid "89f94c98-0505-4819-9c3a-104f12d94e86")
 	)
 	(fp_line
-		(start -4.8895 0)
-		(end -4.8895 -0.8128)
+		(start -4.8895 -0.8636)
+		(end -4.8895 1.3716)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "c2397773-e311-4e2b-83e6-77b5c9111a02")
+		(uuid "dc3e25ef-8023-42a7-ad96-7566588c5406")
 	)
 	(fp_line
-		(start -4.318 1.3716)
-		(end 4.2926 1.3716)
+		(start -4.8768 1.3716)
+		(end 4.826 1.3716)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -108,8 +138,8 @@
 		(uuid "32bc5f77-9b05-4023-a646-cbaadd91f901")
 	)
 	(fp_line
-		(start 6.096 -0.0254)
-		(end 4.7625 -0.0254)
+		(start 6.096 -0.889)
+		(end 4.7625 -0.889)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -118,8 +148,8 @@
 		(uuid "dda8de7c-6814-438f-aad0-89afc6c975d3")
 	)
 	(fp_line
-		(start 6.1087 -0.0254)
-		(end 6.1087 5.0546)
+		(start 6.1087 -0.889)
+		(end 6.1087 4.191)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -128,8 +158,8 @@
 		(uuid "1cbfbf46-e5f4-442f-8a78-303329dea1f6")
 	)
 	(fp_line
-		(start 6.1087 5.0546)
-		(end -6.1595 5.0546)
+		(start 6.1087 4.191)
+		(end -6.1595 4.191)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -137,9 +167,29 @@
 		(layer "F.SilkS")
 		(uuid "3fa12023-e3d9-4d71-843e-c601e5c31837")
 	)
+	(fp_line
+		(start 6.985 -26.797)
+		(end 6.985 1.397)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "08f4eb15-d572-4c02-90cd-89479452f00a")
+	)
+	(fp_line
+		(start 6.985 1.397)
+		(end 6.4008 1.397)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ce0d9c83-f4a2-437c-b75c-286e2ba4c6f3")
+	)
 	(fp_circle
-		(center -5.178889 3.8354)
-		(end -5.178889 3.304711)
+		(center -5.4102 3.4798)
+		(end -5.4102 2.949111)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -149,8 +199,8 @@
 		(uuid "5d3c8605-7e22-458b-a8e2-628babef88b0")
 	)
 	(fp_circle
-		(center 5.0292 3.9116)
-		(end 5.0292 3.380911)
+		(center 5.3594 3.4798)
+		(end 5.3594 2.949111)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -160,29 +210,29 @@
 		(uuid "20c4b1c1-15b6-4a77-9bae-89e89c51ff53")
 	)
 	(fp_rect
-		(start -6.5278 -1.143)
-		(end 6.5532 5.4102)
+		(start -7.3914 -27.1526)
+		(end 7.2898 5.3594)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill none)
 		(layer "F.CrtYd")
-		(uuid "b85b417b-3dda-45ae-b9d9-8302db16bdef")
+		(uuid "a179cee8-d53f-4f60-b530-bc1e8e10f250")
 	)
 	(fp_rect
-		(start -6.3754 -0.9906)
-		(end 6.4008 5.2324)
+		(start -7.2136 -26.8986)
+		(end 7.0866 5.1562)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(fill none)
 		(layer "F.Fab")
-		(uuid "8a4eaabf-6076-4cae-b085-779d1536fe6b")
+		(uuid "629d7c06-debe-4ee6-82f7-0f62e7e6c8d5")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0.6604 -3.9582 0)
+		(at 0.508 -29.6164 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "318dce48-0286-4c5f-9c4e-591ce3ed3aec")
