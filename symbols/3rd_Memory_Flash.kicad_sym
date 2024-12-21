@@ -27,7 +27,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P790X216-8N"
+		(property "Footprint" "None"
 			(at 34.29 2.54 0)
 			(effects
 				(font
