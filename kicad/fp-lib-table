@@ -19,4 +19,6 @@
   (lib (name "3rd_BuleTM")(type "KiCad")(uri "${KIPRJMOD}/../footprints/3rd_BuleTM.pretty")(options "")(descr ""))
   (lib (name "3rd_Wire_THT")(type "KiCad")(uri "${KIPRJMOD}/../footprints/3rd_Connector_Wire_THT.pretty")(options "")(descr ""))
   (lib (name "3rd_Wire_SMD")(type "KiCad")(uri "${KIPRJMOD}/../footprints/3rd_Connector_Wire_SMD.pretty")(options "")(descr ""))
+  (lib (name "3rd_Interface_CAN")(type "KiCad")(uri "${KIPRJMOD}/../footprints/3rd_Interface_CAN.pretty")(options "")(descr ""))
+  (lib (name "3rd_Interface_UART")(type "KiCad")(uri "${KIPRJMOD}/../footprints/3rd_Interface_UART.pretty")(options "")(descr ""))
 )
