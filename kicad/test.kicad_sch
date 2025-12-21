@@ -2044,7 +2044,7 @@
 		)
 		(uuid "a7d49f9c-73b4-4230-9132-9cf4337d9902")
 	)
-	(text "PT100 恒压电桥调理电路"
+	(text ""
 		(exclude_from_sim no)
 		(at 213.868 170.18 0)
 		(effects
@@ -2368,7 +2368,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 125.73) (xy 130.81 130.81)
+			(xy 130.81 125.73) (xy 130.81 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2858,7 +2858,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 146.05) (xy 130.81 138.43)
+			(xy 130.81 146.05) (xy 130.81 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3165,6 +3165,16 @@
 			(type default)
 		)
 		(uuid "ce093ea9-1d57-4501-af59-6a2977a1839e")
+	)
+	(wire
+		(pts
+			(xy 130.81 133.35) (xy 130.81 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf70bd82-9c98-4fef-80a0-679c0578bf9d")
 	)
 	(wire
 		(pts
@@ -6040,7 +6050,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 130.81 134.62 90)
+		(at 130.81 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6048,7 +6058,7 @@
 		(dnp no)
 		(uuid "95d20bb8-c3f0-422c-9be3-074455db8f9f")
 		(property "Reference" "D2"
-			(at 133.35 133.858 90)
+			(at 133.35 137.668 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6057,7 +6067,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 133.096 135.5726 90)
+			(at 133.096 139.3826 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6066,7 +6076,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 130.81 134.62 0)
+			(at 130.81 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,7 +6085,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 134.62 0)
+			(at 130.81 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6084,7 +6094,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 130.81 134.62 0)
+			(at 130.81 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6093,7 +6103,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 130.81 134.62 0)
+			(at 130.81 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6646,6 +6656,73 @@
 			(project "PT100-AMP"
 				(path "/46f61707-7257-4955-981c-56313ea3fc5c"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 130.81 130.81 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b9a3bd6e-0c1b-4e32-93a8-30f5dbf4c814")
+		(property "Reference" "R11"
+			(at 134.62 130.302 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "500R"
+			(at 134.62 131.826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 130.81 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 130.81 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 130.81 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "983ae1dc-ff79-4c51-895e-d7b8be67196d")
+		)
+		(pin "1"
+			(uuid "85b191fe-0f78-4db2-8af7-f0d7d4db721e")
+		)
+		(instances
+			(project "test"
+				(path "/46f61707-7257-4955-981c-56313ea3fc5c"
+					(reference "R11")
 					(unit 1)
 				)
 			)

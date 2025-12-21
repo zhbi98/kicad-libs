@@ -58,9 +58,27 @@
 
 管理封装带来了一些困难，在设计器件的封装时一定要认真查阅器件的不同厂商的数据手册，看看同一种封装
 
-
-
 ![image.png](./docs/image/da895b3a068580.png)
+
+- SOP (Small Outline Package) 小外形封装。在 EIAJ 标准中，针脚间距为 1.27mm (50mil) 的此类封装被称为 SOP。请注意，JEDEC 标准中所称的 SOP 具有不同的宽度。
+- DSO (Dual Small Out-lint) 双侧引脚小外形封装（SOP 的别称）。
+- SO (Small Outline) SOP 的别称。
+- HSO (Heterogeneous Small Outline Package) 非对称 SOP 封装，适用于需要区分芯片正反面的场合。 
+- HSOP (High-speed Small Outline Package) 高速 SOP 封装，适用于高速处理器和存储器控制器等芯片。 
+- SOL (Small Out-Line L-leaded package) 按照 JEDEC 标准对 SOP 所采用的名称
+- SOIC (Small Outline Integrated Circuit) 小外形集成电路。有时也称为 SO 或 SOL，在 JEDEC 标准中，针脚间距为 1.27mm (50mil) 的此类封装被称为 SOIC。请注意， EIAJ 标准中所称的 SOIC 封装具有不同的宽度 。
+- SOW (Small Outline Package(Wide-Type)) 宽体 SOP，部分半导体厂家采用的名称。
+- SSOP (Shrink Small Outline Package) 缩小外形封装。
+- VSOP (Very Small Outline Package) 甚小外形封装。
+- VSSOP (Very Shrink Small Outline Package) 甚缩小外形封装。
+- TSOP (Small Outline Package) 薄小外形封装，适用于内存和存储器控制器等芯片。
+- TSSOP (Thin Shrink Small Outline Package) 薄的缩小外形封装。
+- MSOP (Mini Small Outline Package) 迷你小外形封装。 Analog Devices 公司将其称为 microSOIC，Maxim 公司称其为 SO/uMAX，而国家半导体 National Semiconductor 公司则 称之为 MiniSO。
+- SOJ (Small Out-Line J-Leaded Package) J 形引脚小外型封装。
+- SOT (Small Outline Transistor) 小外形晶体管。
+- SON (Small Outline No-leads Package) 小外形无引脚封装，可用于减少占用空间。 
+
+混乱现象主要出现在管脚间距 1.27mm 的封装上，多为 74 系列的数字逻辑芯片。两个标准对代码缩写各有自己的习惯，EIAJ 习惯上使用 SOP 5.3mm 体宽，JEDEC 习惯上使用 SOIC 3.9mm 与 7.5mm 两种体宽，也有些公司并不遵守这个习惯，如 UTC ，使用 SOP3.9mm 与 7.5mm 两种体宽。
 
 ## 使用方法
 

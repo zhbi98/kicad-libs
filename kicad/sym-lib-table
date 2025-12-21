@@ -10,5 +10,6 @@
   (lib (name "3rd_Sensor_Power")(type "KiCad")(uri "${KIPRJMOD}/../symbols/3rd_Sensor_Power.kicad_sym")(options "")(descr ""))
   (lib (name "3rd_Switch")(type "KiCad")(uri "${KIPRJMOD}/../symbols/3rd_Switch.kicad_sym")(options "")(descr ""))
   (lib (name "3rd_Connector_Generic")(type "KiCad")(uri "${KIPRJMOD}/../symbols/3rd_Connector_Generic.kicad_sym")(options "")(descr ""))
-  (lib (name "3rd_BuleTM")(type "KiCad")(uri "G:/project/kicad-libs/symbols/3rd_BuleTM.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_BuleTM")(type "KiCad")(uri "${KIPRJMOD}/../symbols/3rd_BuleTM.kicad_sym")(options "")(descr ""))
+  (lib (name "3rd_Driver_LED")(type "KiCad")(uri "${KIPRJMOD}/../symbols/3rd_Driver_LED.kicad_sym")(options "")(descr ""))
 )
