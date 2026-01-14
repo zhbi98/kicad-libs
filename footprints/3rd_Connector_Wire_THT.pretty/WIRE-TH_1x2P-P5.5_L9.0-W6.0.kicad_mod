@@ -1,7 +1,7 @@
 (footprint "WIRE-TH_1x2P-P5.5_L9.0-W6.0"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -0.508 -8.509 0)
@@ -11,7 +11,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -23,18 +23,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "96d7ed15-cfa7-4538-b19f-76c5484b21f8")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -65,8 +53,8 @@
 	)
 	(attr through_hole)
 	(fp_line
-		(start -4.699 -3.175)
-		(end 4.699 -3.175)
+		(start -4.8514 -3.3528)
+		(end 4.826 -3.3528)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -75,8 +63,8 @@
 		(uuid "84a3e8e2-2cab-48ff-8b81-ead688f97bd4")
 	)
 	(fp_line
-		(start -4.699 3.175)
-		(end -4.699 -3.175)
+		(start -4.8514 3.302)
+		(end -4.8514 -3.3528)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -85,8 +73,8 @@
 		(uuid "a0423ba8-777c-495f-9192-20bcf7696e2b")
 	)
 	(fp_line
-		(start 4.699 -3.175)
-		(end 4.699 3.175)
+		(start 4.826 -3.3528)
+		(end 4.826 3.302)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -95,8 +83,8 @@
 		(uuid "576573f9-f276-4844-96d0-82e04d2a54c2")
 	)
 	(fp_line
-		(start 4.699 3.175)
-		(end -4.699 3.175)
+		(start 4.826 3.302)
+		(end -4.8514 3.302)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -105,8 +93,8 @@
 		(uuid "6ea5f9d9-1fdf-43a1-9f70-792a3c8fd006")
 	)
 	(fp_line
-		(start -4.826 -3.302)
-		(end 4.826 -3.302)
+		(start -4.9276 -3.4036)
+		(end 4.9022 -3.4036)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -115,8 +103,8 @@
 		(uuid "c31a569d-b850-49ab-9462-40d354eaa730")
 	)
 	(fp_line
-		(start -4.826 3.302)
-		(end -4.826 -3.302)
+		(start -4.9276 3.3782)
+		(end -4.9276 -3.4036)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -125,8 +113,8 @@
 		(uuid "22633a72-8f7e-4888-88dc-4018f45dbee9")
 	)
 	(fp_line
-		(start 4.826 -3.302)
-		(end 4.826 3.302)
+		(start 4.9022 -3.4036)
+		(end 4.9022 3.3782)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -135,8 +123,8 @@
 		(uuid "5ba6f443-b236-4e65-97c6-be17f3d6f94d")
 	)
 	(fp_line
-		(start 4.826 3.302)
-		(end -4.826 3.302)
+		(start 4.9022 3.3782)
+		(end -4.9276 3.3782)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -145,13 +133,13 @@
 		(uuid "b9813488-5785-44da-a6b6-8d20c285983a")
 	)
 	(fp_rect
-		(start -4.699 -3.175)
-		(end 4.699 3.175)
+		(start -4.8514 -3.3528)
+		(end 4.826 3.302)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "e186c4ec-a295-4e55-9b21-b6b698dfdb3f")
 	)
@@ -185,4 +173,5 @@
 		(roundrect_rratio 0.2)
 		(uuid "09a537fa-d7f4-4b4f-8056-2c5ca00c7645")
 	)
+	(embedded_fonts no)
 )
